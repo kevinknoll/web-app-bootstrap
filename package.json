@@ -1,0 +1,13 @@
+{
+  "name": "web-app-bootstrap",
+  "description": "Web App Bootstrap",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "express": "4.4.5"
+  },
+  "devDependencies": {
+    "grunt-contrib-less": "0.11.3",
+    "grunt-contrib-watch": "0.6.1"
+  }
+}
